@@ -8,8 +8,6 @@ Olá! Sou um calouro de Ciência da Computação mergulhando no mundo da program
 
 Aprendendo fundamentos de programação e pensamento computacional
 
-Resolvendo problemas no LeetCode, Beecrowd (URI) e HackerRank
-
 Desenvolvendo pequenos projetos para aplicar meu conhecimento (ex: jogos simples, scripts de automação, iniciação em web dev)
 
 Contribuindo para open-source e colaborando com outros estudantes
@@ -26,11 +24,9 @@ Conseguir um estágio para ganhar experiência prática
 
 📚 Tecnologias em Estudo
 
-Linguagens: Python, Java, C, JavaScript
+Linguagens: Python, Java
 
-Web Dev: HTML, CSS, React (em aprendizado)
-
-Ferramentas: Git, VS Code, IntelliJ IDEA
+Ferramentas: Git, VS Code
 
 🌱 Mentalidade de Crescimento
 
